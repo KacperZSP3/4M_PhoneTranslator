@@ -1,0 +1,1 @@
+C:\Users\kk\Documents\Visual Studio Repos\PhoneTranslator\PhoneTranslator\PhoneTranslator.csproj;x64
